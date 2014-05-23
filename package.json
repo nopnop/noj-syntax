@@ -2,7 +2,7 @@
   "name": "noj-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A luminous and dark syntax theme for atom",
   "repository": "https://github.com/nopnop/noj-syntax.git",
   "license": "MIT",
   "engines": {
