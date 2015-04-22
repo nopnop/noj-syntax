@@ -6,6 +6,6 @@
   "repository": "https://github.com/nopnop/noj-syntax.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.165.0"
+    "atom": ">=0.194.0"
   }
 }
